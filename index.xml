@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes from Tino</title>
+    <link>https://chunhouuu.github.io/</link>
+    <description>Recent content on Notes from Tino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jun 2022 22:58:34 +0800</lastBuildDate><atom:link href="https://chunhouuu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Analyze A/B Tests Results?</title>
+      <link>https://chunhouuu.github.io/posts/abtest-analysis/</link>
+      <pubDate>Mon, 13 Jun 2022 22:58:34 +0800</pubDate>
+      
+      <guid>https://chunhouuu.github.io/posts/abtest-analysis/</guid>
+      <description>What is A/B tests? Image that you are running an e-commerce platform which is an otter dolls specialty stores. You find that around 20% of users cancel the transactions in the very last step of the checkout flow (Fig. 1-a). To improve the checkout completion rate, you come up with an idea that adding an adorable otter image (Fig. 1-b), which assumes that image makes users have stronger desire to get the item.</description>
+    </item>
+    
+  </channel>
+</rss>
